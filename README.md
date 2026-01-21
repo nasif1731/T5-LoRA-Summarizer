@@ -3,8 +3,6 @@
 **Turn walls of text into bite-sized summaries instantly.**  
 *Powered by Google's T5 & Parameter-Efficient Fine-Tuning.*
 
-**[🚀 Try the Demo](https://www.google.com/search?q=%23-run-the-app)** • **[🧠 How it Works](https://www.google.com/search?q=%23-under-the-hood)** • **[📊 Results](https://www.google.com/search?q=%23-performance-stats)**
-
 ---
 
 ## 🧐 What is this?
