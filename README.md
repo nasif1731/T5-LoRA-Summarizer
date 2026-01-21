@@ -88,7 +88,7 @@ For the machine learning enthusiasts, here is the secret sauce used in `text-sum
 
 ## 📜 Credits
 
-* Fine-tuned by **[Nehal and Ibrahim]**
+* Fine-tuned by **Nehal and Ibrahim**
 * Dataset: **CNN/DailyMail** via Hugging Face
 * Library support: **Hugging Face PEFT**
 
